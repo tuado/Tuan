@@ -1,0 +1,18 @@
+[Wed, 24 Jan 2018 14:17:16 virt-manager 29371] DEBUG (cli:264) Launched with command line: /usr/share/virt-manager/virt-manager
+[Wed, 24 Jan 2018 14:17:16 virt-manager 29371] DEBUG (virt-manager:185) virt-manager version: 1.4.3
+[Wed, 24 Jan 2018 14:17:16 virt-manager 29371] DEBUG (virt-manager:186) virtManager import: <module 'virtManager' from '/usr/share/virt-manager/virtManager/__init__.pyc'>
+[Wed, 24 Jan 2018 14:17:26 virt-manager 29377] DEBUG (cli:264) Launched with command line: /usr/share/virt-manager/virt-manager
+[Wed, 24 Jan 2018 14:17:26 virt-manager 29377] DEBUG (virt-manager:185) virt-manager version: 1.4.3
+[Wed, 24 Jan 2018 14:17:26 virt-manager 29377] DEBUG (virt-manager:186) virtManager import: <module 'virtManager' from '/usr/share/virt-manager/virtManager/__init__.pyc'>
+[Wed, 24 Jan 2018 14:29:25 virt-manager 29633] DEBUG (cli:264) Launched with command line: /usr/share/virt-manager/virt-manager
+[Wed, 24 Jan 2018 14:29:25 virt-manager 29633] DEBUG (virt-manager:185) virt-manager version: 1.4.3
+[Wed, 24 Jan 2018 14:29:25 virt-manager 29633] DEBUG (virt-manager:186) virtManager import: <module 'virtManager' from '/usr/share/virt-manager/virtManager/__init__.pyc'>
+[Wed, 24 Jan 2018 14:32:25 virt-manager 29750] DEBUG (cli:264) Launched with command line: /usr/share/virt-manager/virt-manager
+[Wed, 24 Jan 2018 14:32:25 virt-manager 29750] DEBUG (virt-manager:185) virt-manager version: 1.4.3
+[Wed, 24 Jan 2018 14:32:25 virt-manager 29750] DEBUG (virt-manager:186) virtManager import: <module 'virtManager' from '/usr/share/virt-manager/virtManager/__init__.pyc'>
+[Wed, 24 Jan 2018 14:43:20 virt-manager 5467] DEBUG (cli:264) Launched with command line: /usr/share/virt-manager/virt-manager
+[Wed, 24 Jan 2018 14:43:20 virt-manager 5467] DEBUG (virt-manager:185) virt-manager version: 1.4.3
+[Wed, 24 Jan 2018 14:43:20 virt-manager 5467] DEBUG (virt-manager:186) virtManager import: <module 'virtManager' from '/usr/share/virt-manager/virtManager/__init__.pyc'>
+[Wed, 24 Jan 2018 15:08:34 virt-manager 6211] DEBUG (cli:264) Launched with command line: /usr/share/virt-manager/virt-manager
+[Wed, 24 Jan 2018 15:08:34 virt-manager 6211] DEBUG (virt-manager:185) virt-manager version: 1.4.3
+[Wed, 24 Jan 2018 15:08:34 virt-manager 6211] DEBUG (virt-manager:186) virtManager import: <module 'virtManager' from '/usr/share/virt-manager/virtManager/__init__.pyc'>
