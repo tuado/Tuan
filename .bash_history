@@ -118,3 +118,16 @@ git remote add origin https://github.com/tuado/Tuan.git
 git push -u origin master
 pwd
 exit
+clear
+ls -lat
+git add .
+git commit -m "Add existing file"
+cp /home/tuado/Downloads/
+unzip /home/tuado/Downloads/datastore_2018_02_15.zip 
+cd /home/tuado/Downloads/
+ls
+cd 
+ls
+git add Test123/
+git commit -m "tuan is awesome"
+git push origin master 
