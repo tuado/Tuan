@@ -131,3 +131,40 @@ ls
 git add Test123/
 git commit -m "tuan is awesome"
 git push origin master 
+cd
+ls
+cd Test123/
+LS
+ls
+cd Service/
+ls
+ls -alZ 
+mkdir tuan
+ls
+ls -alZ 
+cd
+git add .
+git commit -m
+git commit 
+git push origin master 
+clear
+history
+history |grep git
+cd
+ls
+cd Test123/
+ls
+cd Service/
+ls
+git add .
+cd
+git add .
+git commit
+git commit -m "tuan is cool"
+clear
+git add ./Test123/Service/tuan/
+git commit -m "tuan is cool"
+git push origin master 
+ap
+clear
+ssh root@10.13.145.166
